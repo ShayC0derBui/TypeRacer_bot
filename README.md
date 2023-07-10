@@ -1,5 +1,5 @@
 # TypeRacer_bot
-This bot can type for you in a typracer test for you. HeHeHe
+This bot can type in a typracer test for you. HeHeHe
 
 
 First you take a screenshot of the text you want to type by clicking and selecting a box which encapsulates the text with mouse.
